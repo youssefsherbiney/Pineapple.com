@@ -6,7 +6,7 @@ body,html{
 header{
     width: 100%;
     height: 70px;
-    background-color: orange;
+    background-color: blue;
 }
 
 h1{
@@ -46,3 +46,12 @@ a:hover{
     color: black;
     transition: 0.5s;
 }
+
+body{
+    background-color: black;
+}
+
+h3{
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}    
